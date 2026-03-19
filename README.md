@@ -70,7 +70,8 @@ $ns at 0.0 "$n1 label Receiver"
 $ns run
 ```
 # OUTPUT
-https://github.com/Yagavi26/EXPT.NO-4-SIMULATION-OF-BUS-TOPOLOGY-NETWORK/blob/main/README.md
+<img width="899" height="475" alt="image" src="https://github.com/user-attachments/assets/6c7a7f34-6917-4461-a6cf-63b9dfeba415" />
+
 
 
 
